@@ -29,3 +29,6 @@ Step 5: To send messages again, repeat steps 3 and 4.
 
 NOTE:- Sending over 600 messages can take a long time depending on your internet connection. Caution is advised!
 
+# Donation Button
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/burhanuday)
