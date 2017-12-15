@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#e8e8e8"
+    android:backgroundTint="#e8e8e8"
+    android:gravity="center_vertical|center_horizontal"
+    android:orientation="vertical"
+    tools:context="com.burhanuday.textspammer.Tutorial">
+
+    <TextView
+        android:id="@+id/tvtitle2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#ffffff"
+        android:gravity="center_vertical|center_horizontal"
+        android:text="Spam'em"
+        android:textColor="#00bcff"
+        android:textSize="36sp"
+        android:textStyle="bold" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            android:background="#ffffff"
+            android:gravity="center_vertical|center_horizontal"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:gravity="center_vertical|center_horizontal"
+                android:text="Enable Spam'em and come back \nNote: I do not collect user data; the warning that you see is the default warning for all third-party keyboards."
+                android:textSize="18sp" />
+
+            <Button
+                android:id="@+id/enable"
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:background="#00bcff"
+                android:text="Enable"
+                android:textColor="#ffffff"
+                android:textSize="18sp"/>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="2dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:layout_marginTop="5dp"
+                android:background="#b7b7b7" />
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:gravity="center_vertical|center_horizontal"
+                android:text="See tutorial"
+                android:textSize="18sp" />
+
+            <Button
+                android:id="@+id/but_opentutpage"
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="15dp"
+                android:background="#00bcff"
+                android:text="Open tutorial"
+                android:textColor="#ffffff"
+                android:textSize="18sp"/>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="2dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:layout_marginTop="5dp"
+                android:background="#b7b7b7" />
+
+            <Button
+                android:id="@+id/bconti"
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="20dp"
+                android:layout_marginTop="15dp"
+                android:background="#00bcff"
+                android:text="Continue to app"
+                android:textColor="#ffffff"
+                android:textSize="18sp"/>
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>
+

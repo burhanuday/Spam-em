@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Keyboard xmlns:android="http://schemas.android.com/apk/res/android"
+    android:keyWidth="10%p"
+    android:horizontalGap="5px"
+    android:verticalGap="5px"
+    android:keyHeight="80dp"
+    android:keyTextSize="24dp">
+
+    <Row>
+        <Key android:codes="-101" android:keyLabel="SEND" android:keyWidth="100%p"/>
+    </Row>
+
+    <Row>
+        <Key android:codes="-500" android:keyLabel="EDIT MESSAGE" android:keyWidth="100%p"/>
+    </Row>
+
+    <Row>
+        <Key android:codes="-102" android:keyLabel="EXIT" android:keyWidth="100%p"/>
+    </Row>
+</Keyboard>
