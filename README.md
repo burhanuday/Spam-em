@@ -29,4 +29,3 @@ Step 5: To send messages again, repeat steps 3 and 4.
 
 NOTE:- Sending over 600 messages can take a long time depending on your internet connection. Caution is advised!
 
-TUTORIALS FOR OTHER MESSENGERS WILL BE ADDED SOON, STAY TUNED I’M ONLY ONE PERSON.
