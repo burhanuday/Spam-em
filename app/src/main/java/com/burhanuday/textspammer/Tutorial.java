@@ -27,7 +27,7 @@ public class Tutorial extends AppCompatActivity {
         opentut.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v){
-                Uri uri = Uri.parse("https://spamem.000webhostapp.com/how-to-use"); // missing 'http://' will cause crashed
+                Uri uri = Uri.parse("https://github.com/burhanuday/Spam-em#how-to-use"); // missing 'http://' will cause crashed
                 Intent intent = new Intent(Intent.ACTION_VIEW, uri);
                 startActivity(intent);
             }
