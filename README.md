@@ -3,9 +3,11 @@ Spam’em is a text spammer which can be used in any app messenger that supports
 
 Spam’em has a send rate of 600 messages/ min or 10 messages/second. Sending 600 messages can take a long time on slow internet connections so caution is advised.
 
-# How to use
+# Video Tutorial
 
 [![Video Tutorial for WhatsApp](http://i3.ytimg.com/vi/h3XrDkiCLUc/maxresdefault.jpg)](https://youtu.be/h3XrDkiCLUc)
+
+# How to use
 
 Setting up Spam’em:
 
