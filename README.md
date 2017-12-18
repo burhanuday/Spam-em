@@ -11,7 +11,7 @@ Spam’em has a send rate of 600 messages/ min or 10 messages/second. Sending 60
 
 Setting up Spam’em:
 
-Step 1: You can compile the project on your own or just download a pre compiled apk file from the Releases tab
+Step 1: You can compile the project on your own or just download a pre compiled apk file from the [Releases Tab](https://github.com/burhanuday/Spam-em/releases)
 
 Step 2: When you start Spam’em for the first time, you will be presented with the tutorial page. Press the ‘Enable’ button, you will be taken to the language and input page. Over there enable Spam’em keyboard and go back to the app. Note: I do not collect user data; the warning that you see is the default warning for all third-party keyboards.
 
