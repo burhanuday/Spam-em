@@ -5,7 +5,7 @@ Spam’em has a send rate of 600 messages/ min or 10 messages/second. Sending 60
 
 # Video Tutorial
 
-[![Video Tutorial for WhatsApp](http://i3.ytimg.com/vi/h3XrDkiCLUc/maxresdefault.jpg)](https://youtu.be/h3XrDkiCLUc)
+[![Video Tutorial for WhatsApp](http://i3.ytimg.com/vi/h3XrDkiCLUc/maxresdefault.jpg)](https://youtu.be/7luZwxd4ILg)
 
 # How to use
 
