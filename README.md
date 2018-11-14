@@ -1,4 +1,6 @@
-# Spam'em
+# Spam'em (deprecated)
+
+# updated repo with easier usage - [SPAMit-WhatsApp-Spammer](https://github.com/burhanuday/SPAMit-WhatsApp-Spammer "SPAMit-WhatsApp-Spammer")
 Spam’em is a text spammer which can be used in any app messenger that supports the ‘Enter key is send method’. What this means is that any messenger that allows users to send a text message by pressing the Enter key on the virtual keyboard can be exploited to send thousands of messages. Right now, Spam’em has been tested successfully on WhatsApp and Snapchat and I am trying to add support for more messengers.
 
 Spam’em has a send rate of 600 messages/ min or 10 messages/second. Sending 600 messages can take a long time on slow internet connections so caution is advised.
